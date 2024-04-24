@@ -13,7 +13,7 @@
  
  - EDA Notebook: EDA.ipynb
 - Fixing Test Dataset Notebook: Fix_Test_Data.ipynb 
-- Draft Models Notebook: Draf_Models.ipynb 
+- Draft Models Notebook: Draft_Models.ipynb 
 - SVM Notebook: SVM_Baseline_Model.ipynb
 - MLP Notebook: MLP_Models.ipynb
 - CNN Notebook: CNN_Models.ipynb
