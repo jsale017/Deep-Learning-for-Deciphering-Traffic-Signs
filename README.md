@@ -7,3 +7,13 @@
    
  ## Data Preparation
   We've selected the German Traffic Sign Recognition Benchmark (GTSRB) as our primary dataset. It's renowned for its complexity, featuring over 50,000 images across more than 40 classes of traffic signs. The GTSRB is publicly accessible through two resources. To efficiently manage the extensive and complex GTSRB dataset, our strategy integrates preprocessing for uniformity, data augmentation for robustness, and batch processing for computational efficiency. We'll employ distributed computing to parallelize operations, enhancing processing speed, and use stratified sampling for quick experimentation without compromising representativeness
+
+## Breakdown of Notebooks:
+ We have organized our analysis into separate notebooks for clarity and structure. Here is a brief overview of what each notebook (.ipynb file) contains:
+ - EDA Notebook: EDA.ipynb
+	- Fixing Test Dataset Notebook: Fix_Test_Data.ipynb 
+	- Draft Models Notebook: Draf_Models.ipynb 
+	- SVM Notebook: SVM_Baseline_Model.ipynb
+	- MLP Notebook: MLP_Models.ipynb
+	- CNN Notebook: CNN_Models.ipynb
+	- Resnet-18 Notebook: pre-trained_Resnet18_Model.ipynb
